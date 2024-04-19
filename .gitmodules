@@ -1,3 +1,6 @@
 [submodule "Ubuntu-on-Windows"]
 	path = Ubuntu-on-Windows
 	url = https://github.com/TakahiroNNN/Ubuntu-on-Windows.git
+[submodule "Django-on-Docker"]
+	path = Django-on-Docker
+	url = https://github.com/TakahiroNNN/Django-on-Docker.git
