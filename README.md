@@ -20,3 +20,17 @@ cat .gitmodules
 git commit -m "git add XXX repository"
 git push
 ```
+
+### 削除したリポジトリを UNDO する方法
+ローカルリポジトリを削除。（git からしたら変更を検知している状態）
+```
+rm -rf <リポジトリ名>
+```
+削除を UNDO する
+```
+git restore <リポジトリ名>
+```
+念のためステータス確認
+```
+git status
+```
