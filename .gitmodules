@@ -10,3 +10,6 @@
 [submodule "Generator_Selenium"]
 	path = Generator_Selenium
 	url = https://github.com/TakahiroNNN/Generator_Selenium.git
+[submodule "Selenium_on_Docker"]
+	path = Selenium_on_Docker
+	url = https://github.com/TakahiroNNN/Selenium_on_Docker.git
