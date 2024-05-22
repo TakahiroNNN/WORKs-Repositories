@@ -35,3 +35,9 @@ git restore <リポジトリ名>
 ```
 git status
 ```
+
+# Dockerコマンド
+## リソース全削除
+```
+docker system prune -a
+```
