@@ -1,18 +1,24 @@
 [submodule "Ubuntu-on-Windows"]
 	path = Ubuntu-on-Windows
 	url = https://github.com/TakahiroNNN/Ubuntu-on-Windows.git
+	branch = LTS
 [submodule "Django-on-Docker"]
 	path = Django-on-Docker
 	url = https://github.com/TakahiroNNN/Django-on-Docker.git
+	branch = main
 [submodule "Playground-Python311"]
 	path = Playground-Python311
 	url = https://github.com/TakahiroNNN/Playground-Python311.git
+	branch = main
 [submodule "Generator_Selenium"]
 	path = Generator_Selenium
 	url = https://github.com/TakahiroNNN/Generator_Selenium.git
+	branch = main
 [submodule "Selenium_on_Docker"]
 	path = Selenium_on_Docker
 	url = https://github.com/TakahiroNNN/Selenium_on_Docker.git
+	branch = main
 [submodule "Jenkins_on_Docker"]
 	path = Jenkins_on_Docker
 	url = https://github.com/TakahiroNNN/Jenkins_on_Docker.git
+	branch = main

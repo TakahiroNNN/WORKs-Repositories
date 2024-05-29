@@ -22,12 +22,6 @@ git commit -m "git add XXX repository"
 git push
 ```
 
-## Git submoduleを、リモートリポジトリのmainブランチの最新版に反映させる
-submodule 使用側のブランチで下記コマンド
-```
-git submodule update --remote
-```
-
 ### 削除したリポジトリを UNDO する方法
 ローカルリポジトリを削除。（git からしたら変更を検知している状態）
 ```
@@ -41,6 +35,13 @@ git restore <リポジトリ名>
 ```
 git status
 ```
+
+## Git submoduleを、リモートリポジトリのmainブランチの最新版に反映させる
+submodule 使用側のブランチで下記コマンド
+```
+git submodule update --remote
+```
+
 
 # Dockerコマンド
 ## リソース全削除
