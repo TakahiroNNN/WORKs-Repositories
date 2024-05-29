@@ -13,3 +13,6 @@
 [submodule "Selenium_on_Docker"]
 	path = Selenium_on_Docker
 	url = https://github.com/TakahiroNNN/Selenium_on_Docker.git
+[submodule "Jenkins_on_Docker"]
+	path = Jenkins_on_Docker
+	url = https://github.com/TakahiroNNN/Jenkins_on_Docker.git
