@@ -44,6 +44,10 @@ git submodule update --remote
 
 
 # Dockerコマンド
+## リソース確認
+```
+docker system prune -a
+```
 ## リソース全削除
 ```
 docker system prune -a
