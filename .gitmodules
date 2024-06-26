@@ -22,3 +22,6 @@
 	path = Jenkins_on_Docker
 	url = https://github.com/TakahiroNNN/Jenkins_on_Docker.git
 	branch = main
+[submodule "CommandCheatSheet"]
+	path = CommandCheatSheet
+	url = https://github.com/TakahiroNNN/CommandCheatSheet.git
