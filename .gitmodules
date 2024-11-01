@@ -25,3 +25,6 @@
 [submodule "CommandCheatSheet"]
 	path = CommandCheatSheet
 	url = https://github.com/TakahiroNNN/CommandCheatSheet.git
+[submodule "Playground-Blockchain"]
+	path = Playground-Blockchain
+	url = https://github.com/TakahiroNNN/Playground-Blockchain.git
