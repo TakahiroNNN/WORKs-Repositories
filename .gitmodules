@@ -28,3 +28,6 @@
 [submodule "Playground-Blockchain"]
 	path = Playground-Blockchain
 	url = https://github.com/TakahiroNNN/Playground-Blockchain.git
+[submodule "Playground-HyperledgerFabric"]
+	path = Playground-HyperledgerFabric
+	url = https://github.com/TakahiroNNN/Playground-HyperledgerFabric.git
